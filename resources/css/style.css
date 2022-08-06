@@ -1,0 +1,40 @@
+body {
+    font-family: Open Sans;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.discover {
+    font-size: 50px;
+}
+
+video {
+    display: block;
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+.travel-guide {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
